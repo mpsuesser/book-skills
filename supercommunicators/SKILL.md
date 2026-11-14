@@ -35,10 +35,10 @@ The CIA case officer Jim Lawler nearly lost a recruit by pitching her, then won 
 
 The aim for meaningful discussions is a *learning conversation*: "learn how the people around us see the world and help them understand our perspectives in turn." It runs on four rules:
 
-1. **Pay attention to what kind of conversation is occurring** (the matching principle).
-2. **Identify our goals for a dialogue**: what you want, and what everyone else wants from it. Depth: [`what-is-this-really-about.md`](what-is-this-really-about.md).
-3. **Ask about others' emotions and share your own feelings**, bringing emotions to the surface. Depth: [`how-do-we-feel.md`](how-do-we-feel.md); when the parties are fighting or online, [`connecting-amid-conflict.md`](connecting-amid-conflict.md).
-4. **Explore if our identities influence what we say and hear.** Depth: [`who-are-we.md`](who-are-we.md), which also holds the before / beginning / as-it-unfolds plan for any hard conversation that can threaten someone's sense of self (performance feedback, a pay complaint, asking a spouse to change).
+1. **Pay attention to what *kind* of conversation is occurring.** (The matching principle.)
+2. **Share your goals, and ask what others are seeking.** Depth: [`what-is-this-really-about.md`](what-is-this-really-about.md).
+3. **Ask about others' feelings, and share your own.** This brings emotions to the surface. Depth: [`how-do-we-feel.md`](how-do-we-feel.md); when the parties are fighting or online, [`connecting-amid-conflict.md`](connecting-amid-conflict.md).
+4. **Explore if identities are important to this discussion.** Depth: [`who-are-we.md`](who-are-we.md), which also holds the before / beginning / as-it-unfolds plan for any hard conversation that can threaten someone's sense of self (performance feedback, a pay complaint, asking a spouse to change).
 
 ## Applying the book to a conversation
 
@@ -49,7 +49,7 @@ Use these steps whether the user is preparing, is in the middle of one, or is de
    - Plans, decisions, options, finances, facts laid out analytically → *What's This Really About?*, persuaded by the *logic of costs and benefits*.
    - A story or a joke, a personal problem told as a story, values, sighs → *How Do We Feel?*, persuaded by the *logic of similarities*: they want compassion, not a solution.
    - Keeps bringing up other people, groups, affiliations, status, "people like us" → *Who Are We?*
-   - When unsure, ask: "Do you want to talk about our emotions? Or do we need to make a decision together? Or is this about something else?" or "Do you want me to suggest some solutions, or do you just need to vent?" Teachers ask upset students: "Do you want to be helped, hugged, or heard?"
+   - Notice whether people have said their goal for this conversation, and whether you have. When unsure, ask others: "What do you want to talk about?" "Do you want to talk about our emotions? Or do we need to make a decision together? Or is this about something else?" "Do you want me to suggest some solutions, or do you just need to vent?" Teachers ask upset students "Do you want to be helped, hugged, or heard?": *helped* is a practical *What's This Really About?* conversation, *hugged* an emotional *How Do We Feel?* conversation, *heard* a more social *Who Are We?* conversation.
 
    Done when you can name the conversation each party is in and which logic each finds persuasive.
 3. **Match, then invite matching.** Speak in the mindset and logic the other person is using, and make your own mindset visible. In a debrief, name the mismatch: that is usually why it failed.

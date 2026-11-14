@@ -13,7 +13,7 @@ This file is the cure for the **Truth Assumption** ("I am right, you are wrong")
 
 ## Where our stories come from
 
-Stories are built "in often unconscious but systematic ways." We take in information, interpret it, and draw conclusions. We usually trade only the conclusions, "without stepping down to where most of the real action is: the information and interpretations." In any disagreement, step down that ladder on both sides.
+Stories are built "in often unconscious but systematic ways," up a ladder from the **Available Information**: **1. Our Observations** (we take in information), **2. Our Interpretations** (we give it meaning), **3. Our Conclusions**. "At each step, there is an opportunity for different people's stories to diverge." We usually trade only the conclusions, "without stepping down to where most of the real action is: the information and interpretations." In any disagreement, step down the ladder on both sides.
 
 1. **We have different information.**
    - **We notice different things.** Four-year-old Andrew called it "the best truck parade I've ever seen!" His Uncle Doug noticed no trucks at all. What we notice is tied to who we are: whether we attend to feelings and relationships, status and power, or facts and logic. Randy (white) and Daniel (Korean American) worked on the same assembly line and described the company's racial record so differently that "it's as if Randy and Daniel work at different companies." Each assumes he has "the facts."

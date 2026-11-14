@@ -25,9 +25,11 @@ The thoughts and feelings in every difficult conversation fall into three conver
 
 | | Battle of Messages | Learning Conversation |
 |---|---|---|
-| What Happened? (more complex than either side can see) | I know all I need to know. Goal: persuade them I'm right. I know what they intended. Goal: let them know what they did was wrong. It's all their fault (or all mine). Goal: get them to admit blame and make amends. | Each of us brings different information and perceptions. Goal: explore each other's stories. I know what I intended and the impact their actions had on me; I can't know what's in their head. Goal: share the impact on me, find out what they were thinking, and find out what impact I'm having on them. We have probably both contributed to this mess. Goal: understand the contribution system. |
-| Feelings (emotionally charged) | Feelings are irrelevant (or my feelings are their fault and they need to hear about them). Goal: avoid feelings (or let 'em have it!). | Feelings are the heart of the situation; they are usually complex, and you may have to dig. Goal: address feelings (mine and theirs) without judgments or attributions. Acknowledge feelings before problem-solving. |
-| Identity (threatens our identity) | I'm competent or incompetent, good or bad, lovable or unlovable; there's no in-between. Goal: protect my all-or-nothing self-image. | There may be a lot at stake psychologically for both of us; each of us is complex, neither is perfect. Goal: understand the identity issues for each of us, and build a more complex self-image to keep my balance. |
+| What Happened? (Challenge: the situation is more complex than either person can see) | I know all I need to know to understand what happened. Goal: persuade them I'm right. | Each of us is bringing different information and perceptions to the table; there are likely to be important things that each of us doesn't know. Goal: explore each other's stories: how we understand the situation and why. |
+| | I know what they intended. Goal: let them know what they did was wrong. | I know what I intended, and the impact their actions had on me. I don't and can't know what's in their head. Goal: share the impact on me, and find out what they were thinking. Also find out what impact I'm having on them. |
+| | It's all their fault. (Or it's all my fault.) Goal: get them to admit blame and take responsibility for making amends. | We have probably *both* contributed to this mess. Goal: understand the contribution system: how our actions interact to produce this result. |
+| Feelings (Challenge: the situation is emotionally charged) | Feelings are irrelevant and wouldn't be helpful to share. (Or, my feelings are their fault and they need to hear about them.) Goal: avoid talking about feelings. (Or, let 'em have it!) | Feelings are the heart of the situation. Feelings are usually complex. I may have to dig a bit to understand my feelings. Goal: address feelings (mine and theirs) without judgments or attributions. Acknowledge feelings before problem-solving. |
+| Identity (Challenge: the situation threatens our identity) | I'm competent or incompetent, good or bad, lovable or unlovable. There is no in-between. Goal: protect my all-or-nothing self-image. | There may be a lot at stake psychologically for both of us. Each of us is complex, neither of us is perfect. Goal: understand the identity issues on the line for each of us. Build a more complex self-image to maintain my balance better. |
 
 **The two-column view.** In the right column, write what was actually said. In the left, write what each person thought and felt but didn't say. "There's an awful lot going on ... that is not being spoken": the real action is in the left column. The gap between what you think and what you say is part of what makes the conversation difficult.
 
@@ -45,8 +47,8 @@ The learning stance moves "from certainty to curiosity, from debate to explorati
 
 ### Step 1: Prepare by walking through the Three Conversations
 
-1. **Sort out What Happened.** Where does your story come from? Where does theirs? What impact has this situation had on you? What might their intentions have been? What have you each contributed to the problem?
-2. **Understand emotions.** Explore your **emotional footprint** and the **bundle** of emotions you are experiencing ([feelings.md](feelings.md)).
+1. **Sort out What Happened.** Where does your story come from (information, past experiences, rules)? Theirs? What impact has this situation had on you? What might their intentions have been? What have you each contributed to the problem?
+2. **Understand emotions.** Explore your **emotional footprint**, and the **bundle** of emotions you experience ([feelings.md](feelings.md)).
 3. **Ground your identity.** What's at stake for you about you? What do you need to accept to be better grounded ([identity.md](identity.md))?
 
 Lay out the preparation notes under these headings:

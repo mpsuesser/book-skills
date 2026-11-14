@@ -28,9 +28,20 @@ UNTIL ("good enough") or (time runs out)
 - An **attribute branch** subdivides the design: each branch is a different attribute to specify, such as an alarm clock's "Alarm".
 - An **alternative branch** enumerates options, one of which must be chosen, such as the alarm's "Sound".
 
+Blaauw and Brooks's portion of the tree for an alarm clock, with `+` marking the attribute branches and `|` separating alternatives:
+
+```
+CLOCK +
+├─ VISIBILITY: LUMINOUS DIAL (ELECTRIC LIGHT | PHOSPHORESCENT LIGHT) | PLAIN DIAL
+└─ ALARM +
+   ├─ SOUND: BUZZER | CHIME | RADIO
+   ├─ SETTING
+   └─ CONTROL: SET (ONCE | DAILY) | STOP (OFF | SLUMBER)
+```
+
 Engineers search roughly depth-first from an initial proposal. Building architects search laterally among alternatives at every level.
 
-**Royce's 1970 Waterfall paper** set up the sequential model as a straw man to argue against. Royce allowed iteration only with the immediately neighboring step. Brooks once advocated the model and has repented.
+**Royce's 1970 Waterfall paper** set up the sequential model as a straw man to argue against. Its seven steps are System requirements → Software requirements → System design → Program design → Coding, unit test → Integration, system test → Operations, maintenance. Each is planned and staffed differently, and iteration is limited to the neighboring steps: "an iteration with the [immediately] preceding and succeeding steps but rarely with the more remote steps in the sequence." Brooks once advocated the model and has repented.
 
 **What is right with it.** Any systematization beats "Let's just start coding, or building." The model gives:
 - clear steps for planning, milestones, organization and staffing;
@@ -60,9 +71,15 @@ Early explicit goals, desiderata and constraints prevent wandering and unify the
 
 Brooks's position: there *will* be a dominant model, so substitute a less misleading one rather than "let 100 models bloom." A replacement must emphasize the progressive discovery of requirements, be memorably *visualized*, and still allow contracting among fallen humans.
 
-- **Co-Evolution** (Maher, Poon and Boulanger): the problem space and the solution space co-evolve, exchanging information, and understanding of both is generated and evaluated incrementally. It captures progressive discovery and is memorable. But it is not comprehensive, gives no image of convergence, and has no milestones or contracting points.
+- **Co-Evolution** (Maher, Poon and Boulanger): the problem space and the solution space co-evolve, exchanging information, and understanding of both is generated and evaluated incrementally. Its two tracks, requirements definition and solution development, alternate: problem statement 1, prototype 1, problem statement 2, prototype 2, and so on. It captures progressive discovery and is memorable. But it is not comprehensive, gives no image of convergence, and has no milestones or contracting points.
 - **Raymond's Bazaar** (open source): a user sees a need, builds a module and gifts it. Prestige is the incentive, market selection among modules is the quality control, and testers are many. The gift-prestige economy works for people otherwise fed, because their contributions are by-products. Conceptual integrity still came from one overarching force (Linus Torvalds) and from a pre-existing functional specification and system design (UNIX). Its success derives from *the builders being the users*, which lets requirements stay implicit. Brooks doubts it works when builders aren't users. Distinguish "anybody can change it" from "anybody can see it."
-- **Boehm's Spiral** (1988) is the most promising. It suggests progress, ties repetitions together, is memorable, and emphasizes prototyping. Prototyping starts with user-interface prototypes and user testing, before any operational prototype. Brooks wants the model designer-centered. He wants *frequent* but not *continuous* interaction with representative users, with successive prototypes as the vehicles. His way forward: embrace and develop the Spiral, and punctuate it with **explicit contracting points**. At each point state what can be contracted, what certainties exist, and how risk is explicitly distributed.
+- **Boehm's Spiral** (1988) is the most promising. Each turn, growing in cumulative cost, passes through four quadrants:
+  1. "Determine objectives, alternatives, constraints";
+  2. "Evaluate alternatives, identify, resolve risks": risk analysis and a prototype, with successive prototypes leading to an operational one;
+  3. "Develop, verify next-level product": turn by turn, concept of operation, software requirements, product design, then detailed design, code and tests;
+  4. "Plan next phases."
+
+  Each turn ends in a review, the commitment partition. The spiral suggests progress, ties repetitions of the same activity together, is memorable, and emphasizes prototyping, starting with user-interface prototypes and user testing long before an operational prototype is possible. Brooks wants the model designer-centered, with *frequent* but not *continuous* interaction with representative users and successive prototypes as the vehicles. His way forward: embrace and develop the Spiral, and punctuate it with **explicit contracting points**. At each point state what can be contracted, what certainties exist, and how risk is explicitly distributed.
 
 ## Requirements, sin and contracts
 

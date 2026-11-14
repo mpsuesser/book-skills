@@ -39,7 +39,7 @@ Deutsch's account of what people are, why they matter cosmically, how systems ju
 
 **Writing.**
 
-- Pictograms plus the *rebus* rule (a tree and a son for "treason") brought in words no one had explicitly added. That is reach, and "reach always has an explanation": words are built from a few dozen elementary sounds.
+- Pictograms plus a rule that a word sounding like two or more other words in sequence is written with their pictograms ("tree" then "sun" for "treason") brought in words no one had explicitly added. A new pictogram is useless until every reader has been taught it; a word written by the rule is understood even by a reader who has never seen it written. That is reach, and "reach always has an explanation": words are built from a few dozen elementary sounds.
 - A rule that uses each picture for its initial sound made writing *universal* for the language: the origin of alphabets.
 - Universality by rule beats a completed list. Rules are simpler and encode regularities, so they contain more knowledge. They cover every *possible* word, and anyone can coin new words without a central authority.
 - The ancients rarely used this power. Alphabetic writing was conceived once, without vowels, which the Greeks added. The innovators cared only about specific, parochial problems.
@@ -48,7 +48,7 @@ Deutsch's account of what people are, why they matter cosmically, how systems ju
 
 - Tally marks are universal for tallying but impractical. There is a hierarchy of universality.
 - Roman numerals have rules for combining symbols, so VII and VIII yield XV and "an abstract truth has been discovered, and proved… without anyone having counted": it was "the *system of numerals* that performed arithmetic", "using *us*". But the highest symbol stood for a thousand, so the system was not universal.
-- The positional system came from India, with 0 as a placeholder, and Europe was slow to adopt it. Archimedes' sand-reckoning system had an arbitrary limit, and so did Apollonius's. It was "as though everyone in the ancient world was avoiding universality on purpose."
+- The positional system came from India, with 0 as a placeholder, and Europe was slow to adopt it. The Greeks multiplied digits written above M (a myriad) by a myriad; allowing that rule to generate multi-tier numerals would have made their system universal, but they never did. Archimedes' own system petered out after 10^800,000,000. Need was not the reason, for he went on to a system with that base and again capped its powers. Apollonius's system fell short for the same reason. It was "as though everyone in the ancient world was avoiding universality on purpose."
 - "The largest benefits of any universality… come from its being useful for further innovation. And innovation is unpredictable." Valuing it requires valuing abstract knowledge or expecting unforeseeable benefits, which is unnatural in a static society. The Enlightenment reversed this. It began to regard "all arbitrary exceptions and limitations" as "inherently problematic", including laws treating aristocrat and commoner, master and slave, or man and woman differently. Universality came to be sought deliberately, even as a sign that an idea is true.
 
 **Printing and machines.**

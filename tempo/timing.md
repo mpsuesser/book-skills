@@ -6,7 +6,7 @@ The depth behind the four timing behaviors in `SKILL.md`: worked examples, the t
 
 The skill is detecting changes of tempo in your environment and becoming sensitive to how they affect your own emotions and energy. Small cues count: the refrigerator compressor kicking in, a sitcom cutting to an excited commercial, restless shifting when the beverage cart comes out, a listless table perking up when someone walks in.
 
-- **Doodle alphabet**: empty circles are positive-emotion events and shaded circles negative ones. Bigger means more energetic; closer together means faster. Use one symbol per conversational turn (an irate customer at a service desk getting steadily angrier). Then try something subtler, such as a boring conversation that starts politely and turns tired and slow. "Aim for art, not precision", and name the good ones ("Angry Dad yelling at his daughter").
+- **Doodle alphabet**: circles graded on two axes. Size grows as events get "Stronger": bigger is more energetic. Shading runs from solid black to empty as they get "More positive": empty circles are positive-emotion events, shaded circles negative ones. Closer together is faster. Doodle in cafés and meetings, one symbol per conversational turn. An irate customer at a service desk getting steadily angrier becomes a zigzag between two strands: one stays small and pale, the other grows larger and darker until its last circle is big and black ("Can you tell which dots represent the customer?"). If growing excitement needs symbols to overlap, let them. Then try something subtler, such as a boring conversation that starts politely and turns tired and slow. "Aim for art, not precision", and name the good ones ("Angry Dad yelling at his daughter").
 - **Watch two things at once**: the external tempo, and the tempo inside your head as it responds.
 - **Body as tempo barometer**: hold different levels of bodily tension, from complete relaxation to spikes of frozen alertness. Hold your reactions to tempo changes a little longer than they would normally last.
 - **Recalibrate**: awareness calms you and mutes your reactions, and "An instrument that systematically under-reacts is no good." So deliberately overreact for ten minutes, jumpy and on edge, to feel it.
@@ -49,15 +49,17 @@ Probe the subtler rhythms too. Do senior managers process email on Sunday night?
 
 Most decision models use **point logic**: a decision is a point, a fork in a temporal road, which confines reasoning to before/after frames. James Allen's **interval logic** (early 1980s) organizes time around intervals. Gantt charts are a crude early application. Two intervals of different lengths have thirteen qualitatively distinct relations: six symmetric pairs plus one special case.
 
-| Relation | Kitchen | Workplace | Mnemonic |
-|---|---|---|---|
-| Before / After | Let dough rest before baking | Act after a seeded initiative has incubated | Sow and harvest |
-| Meets / Met By | Make the salad just before the guests arrive | Pep talk just before a major customer event | Billiard ball cannon shot |
-| Overlaps / Overlapped By | Buy milk before you run out | Air traffic control shift handoff | Passing the torch |
-| Starts / Started By | Preheat the oven while you make batter | Initial oversight for a new employee | Booster rocket |
-| During / Around | Cut the cake after most guests arrive, before they leave | Product demo during the trade-show coffee break | Strike while the iron is hot |
-| Ends / Ended By | Add salt and stir just before turning off the flame | "Bring in the CEO to close the sale" | Finish with a bang |
-| Equals | "It'll take two to carry that big cake" | Split a large meeting into break-out teams | "On three: lift" |
+| Relation | Shape (A *relation* B) | Kitchen | Workplace | Mnemonic |
+|---|---|---|---|---|
+| Before / After | A ends, a gap, then B begins | Let dough rest before baking | Act after a seeded initiative has incubated | Sow and harvest |
+| Meets / Met By | A ends exactly as B begins | Make the salad just before the guests arrive | Pep talk just before a major customer event | Billiard ball cannon shot |
+| Overlaps / Overlapped By | A begins first and ends while B is under way | Buy milk before you run out | Air traffic control shift handoff | Passing the torch |
+| Starts / Started By | A and B begin together; A ends first | Preheat the oven while you make batter | Initial oversight for a new employee | Booster rocket |
+| During / Around | A begins after B and ends before it | Cut the cake after most guests arrive, before they leave | Product demo during the trade-show coffee break | Strike while the iron is hot |
+| Ends / Ended By | A begins after B; both end together | Add salt and stir just before turning off the flame | "Bring in the CEO to close the sale" | Finish with a bang |
+| Equals | A and B begin and end together | "It'll take two to carry that big cake" | Split a large meeting into break-out teams | "On three: lift" |
+
+The second name in each pair swaps A and B (B *after* A, B *met by* A, and so on).
 
 An **event** is the intersection of a (possibly virtual) venue, an interval of time (possibly spanning time zones), a subset of the world's social network, and an organizational context. Use the relations to lay out the thirteen ways a decision event can sit against another event, and to make informal phrasing precise ("bring that up towards the end of our next meeting"). The *fait accompli* is one such placement: an irreversible commitment made before you reach the default venue.
 

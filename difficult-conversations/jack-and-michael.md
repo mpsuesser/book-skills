@@ -8,7 +8,7 @@ Jack argued that the chart was clearly labeled, and asked, "Why didn't you say s
 
 **The two-column view.**
 
-- *What Jack thought but didn't say:* "That's the thanks I get?!" "A total overreaction." He was angry with himself for a stupid mistake. He thought "Michael tries to intimidate colleagues into getting his way" and "I feel stuck." He wondered, "Is that how you see me? As a proofreader?" And he resolved, "I'm going to be bigger... just be generous and redo it."
+- *What Jack thought but didn't say:* "That's the thanks I get?!" "A total overreaction." He was angry with himself for a stupid mistake. He thought "Michael tries to intimidate colleagues into getting his way" and "I feel stuck." He wondered, "Is that how you see me? As a proofreader?" And he resolved, "I'm going to be bigger... The best way out is for me just to be generous and redo it."
 - *What Michael thought but didn't say:* he wondered whether he should have hired Jack at all. He had gone out on a limb with his partners to give a friend another chance, and he felt frustrated and confused about whether that had been a good decision.
 
 **Michael's story.** He had gone out of his way to help Jack. "Instead of assuming that the client is always right, he argues with me!" He was angry that Jack made excuses instead of fixing the problem, and the revenue graphs were a critical part of the brochure.
@@ -23,7 +23,7 @@ Jack argued that the chart was clearly labeled, and asked, "Why didn't you say s
 - **Impact/intent.**
   - *My intentions:* to help a friend, do a good job, and persuade Michael that the mistake was no big deal(!).
   - *Impact on me:* bullied, unappreciated, frustrated.
-  - *Michael's intentions?* To get the brochure out fast? To make sure it was right? To intimidate me?
+  - *Michael's intentions?* To get the brochure fast. To make sure it was right? To intimidate me?
   - *Impact on Michael?* Frustrated? Disappointed? In a tight spot with his client?
 - **Contribution.**
   - *What did I contribute?* I didn't tell Michael I was upset. I did make the mistake. I didn't ask about his predicament.

@@ -29,7 +29,7 @@ Brooks's attempt to reconstruct the house addition's design tree from the log wa
 **Insights from the attempt:**
 - **Design work uncovers requirements as well as satisfying them.** Analyzing an architect's proposed pavilions revealed two requirements nobody had recognized: the family needed a central place to congregate naturally, and a precious large black oak had to stay. "Design work doesn't just satisfy requirements, it elicits them." A good process encourages this.
 - **Design means realizing that alternatives exist, as well as selecting among them.** Some alternatives come from exemplars; others are breakthroughs. Two Music Room configurations were both unacceptable, until a third appeared ("Config C—A real way forward!"). "A major part of design is realizing that design options exist."
-- **The tree changes as the design changes.** The question tree already embeds design decisions, and each high-level design carries a different organizational tree. Brooks hung the nodes off the *as-built* structure. Early abandoned alternatives affect larger portions of the tree, such as "Flip house end for end," which was short-lived but intrusive. Far-reaching changes grow fewer as the design stabilizes. A capture tool must track growth and the cutting and grafting of subtrees.
+- **The tree changes as the design changes.** The question tree already embeds design decisions. Brooks's first log page divided the task into "Three separable problems," New wing, Old West and Old East, each with its rooms. Why is the Entrance in the New Wing? That assignment was itself a design decision. Each high-level design carries a different organizational tree. Brooks hung the nodes off the *as-built* structure. Early abandoned alternatives affect larger portions of the tree, such as "Flip house end for end," which was short-lived but intrusive. Far-reaching changes grow fewer as the design stabilizes. A capture tool must track growth and the cutting and grafting of subtrees.
 
 **Tree of decisions versus tree of designs.** In a decision tree the product is a set of leaves, so the best complete design so far is hard to see. In a *tree of designs*, each node specifies the sub-tree of products that agree in all decisions down to that node, and each leaf is a complete design. With *n* independent binary questions there are 2^n leaves, which is too cumbersome to draw but instructive. An agile nightly build is a node in the tree of designs: the best complete design so far.
 
@@ -37,7 +37,7 @@ Brooks's attempt to reconstruct the house addition's design tree from the log wa
 
 **Capture tools:**
 - Project-management and PERT tools support only the Waterfall. They have no conditional nodes and assume the major decisions are made.
-- IBIS-style issue mapping (gIBIS, Compendium) structures argument.
+- IBIS-style issue mapping (gIBIS, Compendium) structures argument. Razzaque's Compendium chart of the house wing distinguishes four node kinds (Design Alternative, Chosen Design Alternative, Requirements uncovered during design work, Question) and two links: design alternatives that are mutually exclusive, and design alternatives that are independent.
 - Structured annotation *during* design restricts vague ideas and impedes conceptual design. CAD is too precise for quick exploration, while sketches allow vagueness. For capture, a generic diagramming tool with automatic tree layout serves better.
 
 **When rationale capture gets adopted.** DRed, Rolls-Royce's design-rationale editor, succeeded where similar tools failed, for these reasons:

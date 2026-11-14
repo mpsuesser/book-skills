@@ -6,6 +6,8 @@ The practical, decision-making conversation. It has two goals: first, determine 
 
 Every conversation opens with a ***quiet negotiation***: "A subtle give-and-take over which topics we'll dive into and which we'll skirt around; the rules for how we'll speak and listen." It runs on *invitations*, which a partner *accepts* or answers with *counter-invitations*, carried by tone, posture, asides, sighs and laughs. Its prize "is not winning, but rather determining what everyone wants."
 
+**How to figure out what this is really about:** first, recognize that this is a negotiation. Next determine: What does everyone *want*? Then, how will we make choices *together*? The two parts below take those questions in turn.
+
 Surface topics hide deeper ones. "We're here to discuss this quarter's projections" turns out to mean "whether there're going to be layoffs." "Should we submit an offer for the house?" sits on top of *Can we afford to pay that much?* "Do you want me to pick up the groceries or get the kids?" sits on top of *Is it fair for me to pick up the kids when I have so much work to do?* Lines such as "That memo was crazy, right?" or "I'm not sure he can get the job done" are invitations into this conversation: they signal there is something deeper to discuss.
 
 ## Part one: find out what everyone wants
@@ -28,7 +30,7 @@ The rules for a dialogue range from the trivial (*Will we interrupt each other?*
 - ***Logic of costs and benefits***: practical, analytical reasoning that contrasts potential costs with hoped-for benefits. Persuaded by evidence, studies and data.
 - ***Logic of similarities***: decisions made by drawing on experience and asking "What does someone like me usually do in a situation like this?" It tells us when to empathize. Persuaded by compassion and stories. "Stories bypass the brain's instinct to look for reasons to be suspicious" (Emily Falk).
 
-The two often contradict each other, so "we can only make decisions together if we all agree on which *kind* of logic is most persuasive." Tells: someone who lays out facts or asks for data is in costs and benefits; someone who tells stories, talks about values, right and wrong, or their past is in similarities. Ehdaie gave data to the first group. To the second he said he would advise his own father, a surgeon's father, to avoid the operation, and told them what other patients had done.
+The two often contradict each other, so "we can only make decisions together if we all agree on which *kind* of logic is most persuasive." Tells: someone who lays out facts or asks for data is in costs and benefits; someone who tells stories, talks about values, right and wrong, or their past is in similarities. So ask: *Is this a practical discussion?* Lean into data and reasoning. *Is this an empathetic discussion?* Lean into stories and compassion. Ehdaie gave data to the first group. To the second he said he would advise his own father, a surgeon's father, to avoid the operation, and told them what other patients had done.
 
 Mismatches: Duhigg answered his cousin's conspiracy theory ("Mattress stores are money-laundering fronts!") with public financial filings, and was told *he* was brainwashed; the cousin was reasoning from stories of elites lying before. In reverse, a customer-service rep in costs-and-benefits mode wants the transaction date, not the story of how your son ordered a thousand dollars of Legos.
 

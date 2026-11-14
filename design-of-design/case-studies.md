@@ -183,7 +183,7 @@ Mock-ups and the virtual environment each delivered value the other did not.
 - some individuals were fractious and stubborn.
 
 **Design decisions:**
-- **Careful separation of policy from operations.** A board meeting monthly set policy; a staff under a Director ran operations.
+- **Careful separation of policy from operations.** A board meeting monthly set policy; a staff under a President/Director ran operations, with liaisons to the campus systems programmers and to the campus computing center directors.
 - **A ten-member board**: three from each campus, plus the Director.
 - **Voting alternatives considered**: unanimous consent of members; simple majority of members; unanimous consent of institutions; majority of institutions.
   - Unanimous consent was rejected as too hard; avoiding the need for consensus greatly eased decisions.

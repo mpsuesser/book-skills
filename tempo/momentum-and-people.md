@@ -73,18 +73,18 @@ Two cautions from Rao: "archetypes are an artistic thinking tool, not a dictiona
 
 The ten common doctrines:
 
-| Doctrine | Illustration | Motto | Momentum axiom | Emotion | Energy | Rhythm | Belief | Archetype |
-|---|---|---|---|---|---|---|---|---|
-| Ready-Fire-Aim (RFA) | John Keating, *Dead Poets Society* | *Carpe Diem* | get ahead and stay ahead of the world | passionate joy | aggressive and charging | fast | better to ask for forgiveness than permission | Pit Bull |
-| Resistance is Futile (RIF) | *The Terminator* | I'll be back | be an irresistible force | ice-cold calm | relentless and overwhelming | slow-medium | what doesn't kill me only makes me stronger | Elephant |
-| Move Mountains (MM) | Andy DuFresne, *Shawshank* | Rome wasn't built in a day | one step at a time | reserved, low-reacting intensity | gentle and steady | slow | I can do anything I set my mind to | Beaver |
-| Enjoy the Ride (ETR) | Hakuna Matata, *The Lion King* | *que sera sera* | let the world carry you along | cheerfulness | languid and playful | slow | don't take things too seriously | Water Rat |
-| Do Your Duty (DYD) | Aragorn | pay your dues | pull your weight | troubled, bordering on neurotic | as demanded by the situation | as demanded by the situation | life ought to be fair | Mole |
-| Next Shiny New Thing (NSNT) | Max, *Rushmore* | I have to have that! | what are we waiting for? | excitement alternating with boredom | impulsive spikes | excited alternating with lethargic | variety is the spice of life | Toad |
-| Like a Rock (LAR) | Gandalf | stand your ground | be an immovable object | determination | matches the force being opposed | matches the rhythms being opposed | the world is a dangerous place | Badger |
-| Prepare to be Assimilated (PTBA) | John Nash, *A Beautiful Mind* | my way or the highway | why stop now? | self-absorption bordering on paranoia | large reserves, steadily unleashed | the beat of an internal drum, divorced from environment | premature optimization is the root of all evil | Archilochus' Hedgehog |
-| Maybe This Will Work (MTWW) | Leonardo Da Vinci, Mozart | today is the first day of the rest of my life | let's rock and roll! | optimism | quick recharge | (none given) | life ought to be fun | Archilochus' Fox |
-| Die Another Day (DAD) | Tyler Durden, *Fight Club*; Camus' Sisyphus | hit me with your best shot | be a force of nature | irony | whirlwind and suicidal | manic | there are no absolutes | Homo Sapiens |
+| Doctrine | Illustration | Motto | Momentum axiom | Characteristic tempo | Belief | Archetype |
+|---|---|---|---|---|---|---|
+| Ready-Fire-Aim (RFA) | John Keating, *Dead Poets Society* | *Carpe Diem* | get ahead and stay ahead of the world | passionate joy; aggressive and charging energy; fast rhythm | better to ask for forgiveness than permission | Pit Bull |
+| Resistance is Futile (RIF) | *The Terminator* | I'll be back | be an irresistible force | ice-cold calm; relentless and overwhelming energy; slow-medium rhythm | what doesn't kill me only makes me stronger | Elephant |
+| Move Mountains (MM) | Andy DuFresne, *Shawshank* | Rome wasn't built in a day | one step at a time | reserved, low-reacting intensity; gentle and steady energy; slow rhythm | I can do anything I set my mind to | Beaver |
+| Enjoy the Ride (ETR) | Hakuna Matata, *The Lion King* | *que sera sera* | let the world carry you along | cheerfulness; languid and playful energy; slow rhythm | don't take things too seriously | Water Rat |
+| Do Your Duty (DYD) | Aragorn | pay your dues | pull your weight | troubled, bordering on neurotic; energy and rhythm as demanded by the situation | life ought to be fair | Mole |
+| Next Shiny New Thing (NSNT) | Max, *Rushmore* | I have to have that! | what are we waiting for? | excitement alternating with boredom; impulsive spikes of energy; rhythm excited alternating with lethargic | variety is the spice of life | Toad |
+| Like a Rock (LAR) | Gandalf | stand your ground | be an immovable object | determination; energy that matches the force being opposed, rhythm that matches the rhythms being opposed | the world is a dangerous place | Badger |
+| Prepare to be Assimilated (PTBA) | John Nash, *A Beautiful Mind* | my way or the highway | why stop now? | self-absorption bordering on paranoia; large reserves of energy, steadily unleashed; rhythm to the beat of an internal drum, divorced from environment | premature optimization is the root of all evil | Archilochus' Hedgehog |
+| Maybe This Will Work (MTWW) | Leonardo Da Vinci, Mozart | today is the first day of the rest of my life | let's rock and roll! | optimism; quick-recharge energy | life ought to be fun | Archilochus' Fox |
+| Die Another Day (DAD) | Tyler Durden, *Fight Club*; Camus' Sisyphus | hit me with your best shot | be a force of nature | irony; whirlwind and suicidal energy; manic rhythm | there are no absolutes | Homo Sapiens |
 
 Doctrines evolve at liminal passages. An idealist living by "I can do anything I set my mind to" (MM) has the work destroyed by an earthquake, extracts the moral "outcomes are never certain," and matures into "I can take on anything, give it my all, and walk away content even if I fail. What doesn't kill me only makes me stronger" (RIF's belief).
 

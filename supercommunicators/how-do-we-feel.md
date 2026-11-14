@@ -17,7 +17,20 @@ A ***deep question*** can be light ("What would be your perfect day?") or heavy 
 2. **It asks people to talk about how they feel**: "How do you feel about…?" "Did it make you happy when…?" "Why do you think he got angry?" "How would you feel if that happened to you?"
 3. **Asking it should feel like sharing**, as if you are revealing something about yourself. People are nearly always happy to have been asked.
 
-Fact questions ("Where do you live?" "What college did you attend?") are conversational dead-ends. Recast them: "What do you like about where you live?" "What was your favorite part of college?" Epley on a train: "What do you do for a living?" → "Do you love that job?" or "Do you have something else you dream of doing?" "Two questions in, and you've gotten to somebody's dreams." In speed-dating studies, the successful conversations drew out "needs, goals, beliefs [and] emotions"; the failed ones were people talking about themselves or asking shallow questions.
+Fact questions are conversational dead-ends. Recast slightly, they become deep:
+
+| Shallow questions… | …can become deep |
+|---|---|
+| Where do you live? | *What do you like about your neighborhood?* |
+| Where do you work? | *What was your favorite job?* |
+| Where did you go to college? | *What was the best part of college?* |
+| Are you married? | *Tell me about your family.* |
+| How long have you lived here? | *What's the best place you've ever lived?* |
+| Do you have any hobbies? | *If you could learn anything, what would it be?* |
+| Where did you go to high school? | *What advice would you give a high schooler?* |
+| Where are you from? | *What's the best thing about where you grew up?* |
+
+Epley on a train: "What do you do for a living?" → "Do you love that job?" or "Do you have something else you dream of doing?" "Two questions in, and you've gotten to somebody's dreams." In speed-dating studies, the successful conversations drew out "needs, goals, beliefs [and] emotions"; the failed ones were people talking about themselves or asking shallow questions.
 
 **Follow-up questions** are particularly powerful: they signal you're listening and make reciprocity easy ("Your favorite part of college was ultimate frisbee? Me too!"). "They allow self-disclosure without it seeming like self-obsession." Deep questions also allow vulnerable replies without demanding them. That helps in offices, and it helps people (such as women) who are penalized for showing emotion: asking "What's the best part of working here?" makes the listener think, and can loosen their stereotypes.
 
@@ -25,7 +38,7 @@ Fact questions ("Where do you live?" "What college did you attend?") are convers
 
 ## Emotional contagion and reciprocity
 
-***Emotional contagion***: humans "synchronize their own emotions with the emotions expressed by those around them," often automatically. One of its most reliable triggers is vulnerability: revealing deeply held beliefs and values or meaningful experiences, or anything that opens us to others' judgment. "To get deep, we have to make an offering of our vulnerability." The cycle: deep questions → vulnerability → emotional contagion → connection.
+***Emotional contagion***: humans "synchronize their own emotions with the emotions expressed by those around them," often automatically. One of its most reliable triggers is vulnerability: revealing deeply held beliefs and values or meaningful experiences, or anything that opens us to others' judgment. "To get deep, we have to make an offering of our vulnerability." The cycle: asking questions *creates* vulnerability, which *triggers* emotional contagion, which *elicits* connection, which *prompts* more questions.
 
 The Arons' *Fast Friends Procedure* (36 escalating questions that made strangers close, and in one case married) worked only when partners took turns. When one person answered all the questions and then the other did, it was awkward and nobody felt close. "Reciprocity is critical."
 
@@ -45,10 +58,10 @@ Specific emotions "are really, really hard to read with any accuracy." Read two 
 - **Mood** (*valence*): positive or negative? upbeat or glum? laughing or shouting?
 - **Energy** (*arousal*): high or low? talkative and expressive, or quiet and withdrawn?
 
-| | Positive | Negative |
+| Energy \ Mood | Positive | Negative |
 |---|---|---|
-| **High energy** | upbeat, enthusiastic, joyful, excited | angry, indignant, insulted, outraged |
-| **Low energy** | blissful, content, grateful, satisfied | frustrated, annoyed, grumpy, discouraged |
+| **High** | *Upbeat, enthusiastic, joyful, and excited* | *Angry, indignant, insulted, and outraged* |
+| **Low** | *Blissful, content, grateful, and satisfied* | *Frustrated, annoyed, grumpy, and discouraged* |
 
 "We exhibit emotional intelligence by showing people that we've heard their emotions—and the way we do that is by noticing, and then matching, their mood and energy." Sometimes you match exactly: laugh as joyfully as they laugh. When matching would only feed tension (anger met with anger), acknowledge instead: "You seem sad... What will cheer you up?" or "You seem upset. What's wrong?" Either way the message is *I hear your feelings*. When you express emotion yourself, watch whether others try to align with your mood and energy.
 

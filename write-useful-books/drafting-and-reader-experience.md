@@ -33,7 +33,7 @@ Detect three weaknesses:
 2. **Long slogs**: lengthy, back-to-back sections without big "a-ha" moments.
 3. **Fluffy sections**: high word count relative to value.
 
-Fix all three by rearranging, editing, and deleting.
+Fix all three by rearranging, editing, and deleting. In an early ToC of *Write Useful Books*, "What keeps a reader reading (950 words)" and "Bestsellers vs. back catalog (1070 words)", among sibling sections of 170-550 words, had suspiciously high word counts relative to the value of their takeaways, so they were marked to be aggressively shortened.
 
 ### Increase value-per-page by deleting the fluff
 

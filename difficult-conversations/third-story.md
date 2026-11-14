@@ -77,6 +77,6 @@ The Third Story is the base of the mountain. From there, explore all Three Conve
 - **Share the impact on you.** "I don't know whether you intended this, but I felt extremely uncomfortable when...." / "When you didn't call, I was frantic with worry."
 - **Take responsibility for your contribution.** "There are a number of things I've done that have made this situation harder...."
 - **Describe feelings.** "I'm anxious about bringing this up, but at the same time, it's important to me that we talk about it...." Empathize: "If I were you, I'd be pretty frustrated at this point."
-- **Reflect on the identity issues.** "I think the reason this subject hooks me is that I don't like thinking of myself as [...]." / "Being fair is so important to me. It's upsetting to think that the way I handled this situation might not have been fair to you."
+- **Reflect on the identity issues.** "I think the reason this subject hooks me is that I don't like thinking of myself as someone who...." / "Being fair is so important to me. It's upsetting to think that the way I handled this situation might not have been fair to you."
 
 The order is never tidy; the conversation moves back and forth. The how comes next: listening ([listening.md](listening.md)), expression ([expression.md](expression.md)), and leading the conversation and problem-solving ([taking-the-lead.md](taking-the-lead.md)).

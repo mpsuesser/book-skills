@@ -31,7 +31,12 @@ Develop an ear for metaphor in action-language:
 
 ## The four basic decision patterns
 
-Universal tactics combine into **decision patterns**, "little nuggets of narrative meaning," the sentences of behavior and "individual breaths in decision-making." Each has its own rise and fall and carries the enactment from one stable, meaningful state to another. "If a decision pattern is interrupted, you must either try to go back to the original state or improvise, since the intermediate states, like incomplete sentences, do not add meaning" (the sitcom character who steers a slip into another meaning or turns it into a sneeze). The four classes follow from where the driving information originates (your head or the environment) and whether you consciously recognize its influence.
+Universal tactics combine into **decision patterns**, "little nuggets of narrative meaning," the sentences of behavior and "individual breaths in decision-making." Each has its own rise and fall and carries the enactment from one stable, meaningful state to another. "If a decision pattern is interrupted, you must either try to go back to the original state or improvise, since the intermediate states, like incomplete sentences, do not add meaning" (the sitcom character who steers a slip into another meaning or turns it into a sneeze). The four classes follow from "the distribution and visibility of situational information": information "either originates in the decision-maker's head or in the environment, and we either consciously recognize or are oblivious to the influence it has on our behavior." The 2x2 crosses **information location** (internal or external) with **visibility of mental models** (high or low):
+
+| | Internal | External |
+|---|---|---|
+| **High visibility** | Deliberative | Reactive |
+| **Low visibility** | Opportunistic | Procedural |
 
 **Reactive**: "a sequence of universal tactics that are consciously selected from among those suggested by the situation itself," devoted almost entirely to managing time, energy and momentum, and fast. Example: working a party to meet someone. You keep them in view, wait for a lull or a loosening of their group, or a transition (changing groups, going to the bar), then move: "Hello! I've been waiting to meet you." **The test**: an observer can describe it in one word, *following* (or *stalking*). Your behavior is described compactly by reference to your target's, and you inject energy but almost no new information. Reactive patterns rest on mimicry and mirror neurons. The common forms:
 - *Selection*: "I am with you" answering "Are you with me or not?"

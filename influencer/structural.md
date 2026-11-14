@@ -72,7 +72,7 @@ The classic case: William Foote Whyte stopped postwar shouting matches between c
 
 - Wansink colored every tenth chip in a stack, and people ate 37 percent fewer.
 - Emery Air Freight's shipping containers were filled properly 45 percent of the time despite training. A "fill to here" line inside each one raised that to 95 percent.
-- Price signs on glove boxes ($3.00 on the comfortable latex pair, a few cents on the cheap ones) cut use of the expensive gloves sharply.
+- Powderless latex gloves cost over 10 times more than regular disposable ones, yet clinicians used them even for short tasks despite pleas to cut costs. A price sign on each box made the gap obvious at the moment of choice, and use of the expensive gloves dropped dramatically.
 - Cedars-Sinai's epidemiologist cultured physicians' palms on agar plates ("I would love to culture your hand"). The photos of bacterial colonies became screen savers. Once opinion leaders came "face to colony," hand hygiene reached nearly 100 percent and stuck.
 - Bogotá's mayor replaced the busy signal with "Sorry. The line is busy at the moment. But remember to conserve water!" Water use fell 40 percent.
 

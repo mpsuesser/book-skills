@@ -4,14 +4,15 @@
 
 | Fan club | No fan club |
 |---|---|
-| iPhone | cell phone |
+| iPhone | Cell phone |
 | Apple II | PC |
-| Macintosh interface | Windows |
-| UNIX | Z/OS |
+| Macintosh Interface | Windows |
+| UNIX | z/OS (MVS) |
 | Pascal | Algol |
 | Fortran | Cobol |
+| Python | Appletalk |
 
-Every product without a fan club came from a formal product process, with many inputs and approvals. Every product with one came from outside the normal process. The atomic bomb, the nuclear submarine, the stealth airplane, the Spitfire and penicillin also came from small teams set apart.
+Every product without a fan club came from a formal product process, with many inputs and approvals. Every product with one came from outside the normal process. The atomic bomb, the nuclear submarine, the ballistic missile, the stealth airplane, the Spitfire, penicillin and the intermittent windshield wiper also came from small teams set apart.
 
 ## Why product processes stifle
 

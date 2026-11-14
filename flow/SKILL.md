@@ -15,7 +15,7 @@ The book gives principles and examples, not recipes: "a joyful life is an indivi
 
 ## The model of consciousness
 
-- **Consciousness** is "intentionally ordered information." Its capacity is small: about seven bits at once, and at most 126 bits a second. Understanding one speaker takes 40 bits a second. So "the information we allow into consciousness... is, in fact, what determines the content and the quality of life."
+- **Consciousness** is "intentionally ordered information." Its capacity is small: about seven bits at once, and about 1/18 of a second to tell one set of bits from the next, so at most 126 bits a second. Understanding one speaker takes 40 bits a second. So "the information we allow into consciousness... is, in fact, what determines the content and the quality of life."
 - **Intentions** are "the force that keeps information in consciousness ordered." They are arranged in a **hierarchy of goals**.
 - **Psychic energy** is attention: "without it no work can be done, and in doing work it is dissipated. We create ourselves by how we invest this energy." It is the main tool for improving experience. The mark of a person in control of consciousness is "the ability to focus attention at will, to be oblivious to distractions, to concentrate for as long as it takes to achieve a goal, and not longer."
 - **The self** "represents the hierarchy of goals that we have built up, bit by bit." **Attention shapes the self, and is in turn shaped by it.** When Sam Browning was fifteen, a chance dive on a reef led to biology courses and then a career as a marine scientist. Even an external windfall (a lottery win, the right spouse) must connect positively to the self before it changes the quality of life.
@@ -47,7 +47,7 @@ The result is an **autotelic experience** (*auto*, self + *telos*, goal): an act
 
 ## The flow channel
 
-Plot challenges (vertical axis) against skills (horizontal axis), each running from 0 (Low) to ∞ (High). The **Flow Channel** is a diagonal band rising from the origin, where challenges and skills match. Above it, where challenges outrun skills, is **Anxiety**; below it, where skills outrun challenges, is **Boredom**. Alex learning tennis shows how a person moves through it:
+Plot challenges (vertical axis) against skills (horizontal axis), each running from 0 (Low) to ∞ (High). The **Flow Channel** is the diagonal band where challenges and skills match, at every level from low to high. Above it, where challenges outrun skills, is **Anxiety**; below it, where skills outrun challenges, is **Boredom**. Alex learning tennis shows how a person moves through it:
 
 - **A1** (in the channel, low on both axes): Alex has almost no skill and one challenge, getting the ball over the net. He is in flow.
 - **A2** (straight right of A1, in Boredom): his skills improve while the challenge stays the same, and he becomes **bored**.
