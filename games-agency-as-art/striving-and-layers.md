@@ -1,0 +1,60 @@
+# Striving play, disposable ends and layered agency
+
+This file holds the book's case that striving play is real and its account of the psychology behind it. Use it when someone insists the only point of playing is winning, when someone explains losing or failure in games, or when the structure of the inner and outer agent needs detail.
+
+## The evidence that striving play exists
+
+The **skeptic** holds that achievement play is the only possible mode. On this view, all players care enduringly about winning and only the definition of a win changes from game to game, the way copper discs become "money" when a country declares them so. Answer the skeptic with phenomena that only striving play explains.
+
+- **Playing games you will probably lose.** In Nguyen's board-game circle, each person is strong at a different skill, so in any given game one of them "doesn't have a chance in hell," and everyone keeps playing anyway. When a chess grandmaster visits the local club, the members do not flee. They "line up for the experience of trying their damned best and losing beautifully." The skeptic's "exchange" story (suffer this loss now to win later) "rings false" to the actual experience.
+- **Holding back from skill.** Nguyen and his spouse were precisely matched at *High Frontier*, a brutally calculative space-colonization game, and swapped and extended each other's strategies. He declines to read the strategy guide or practice with an expert, though his spouse would keep playing if she lost. "I hold back precisely because our games are wonderfully challenging, and if I were to advance past her in skill, they would become boring." Bradford's achievement theory points the other way: a Brahms concerto played effortlessly counts as *more* of an achievement. So a pure achievement player should want effortless wins.
+- **Stupid games**: games that "first, they are only fun if you try to win; and second, the fun part is when you fail." Examples are *Twister*, Telephone (deliberate distortion kills the joke) and Bag on Your Head, where the best part is watching the last player stumble around and seeing "how long it takes them to figure out that they have, in fact, won." Stupid games resist professionalization, and anyone who trains at a candy-bar-naming drinking game is "missing the point." Players keep "a vast store of them" so that nobody gets good. You must try to win "for that failure to make sense *as a failure*." The possibility of striving play lies "not in the bare explicit rules of stupid games, but the spirit in which so many of us play them."
+- **Choosing which game to play.** Players' talk is "soaked in talk of interestingness, fun, fascination, beauty." A player may "prefer a session of Go where I screw up an early sequence" that leads to a fascinating loss "over the session where I play perfectly and eke out a dull win."
+- **The single-mindedness of game life.** Moving from the "motivationally scattered experience of ordinary life—full of its thousand competing purposes" into a game's clarity is itself evidence that motivation has changed.
+- **Positive as well as negative fluidity.** A skeptic who grants that we can suppress our enduring ends but denies that we can take on new ones owes an explanation: "Why ascribe to agents a power for negative fluidity, but not for positive fluidity?"
+- **Abandoning a game.** If Charades at a party of awkward people starts causing bickering, the group pivots, and "winning just comes to seem pointless." The game's ends "fade out of sight." They do not rejoin the player's other ends.
+
+Elite sport is the wrong paradigm for theorizing play. Everyday play (family board games, drinking games, a quick online shooter after work) matters as much. Elite sport's familiar values (difficulty, excellence, skill) are why the philosophy of sport neglects silly games.
+
+## Real ends, not pretend ones
+
+An **actor** does not adopt a character's desires "in a practically decisive way." The improviser playing a bank robber trapped in a vault may choose a stupid, narratively interesting death, and even method actors steer their characters toward doom. A **player** genuinely desires the win during the game. That desire powers the thrill, the horror when a position erodes, and the dread when an enemy pops out with an assault rifle. Some players only go through the motions in order to socialize. For many, though, the interest in winning is "a genuine end though a disposable one."
+
+## Self-effacing ends: why the purpose must go out of view
+
+A **self-effacing end** is "an end that cannot be achieved through direct pursuit, but only through pursuit of some other end." This follows Sidgwick's *paradox of hedonism*: "we should to some extent put it out of sight and not directly aim at it." The pleasures of devoted parenting are unavailable to the selfish hedonist. Yoga's calm comes from little tasks of balance and posture. A stressed person de-stresses on a hike by forgetting the responsibilities that sent them on it. Absorption in a climb comes from aiming "with all your heart, at getting to the top," and flow cannot be a conscious target. "Manipulating our interest in temporary ends to achieve self-effacing ones is actually a familiar technique... Games simply formalize it."
+
+## The structure of layers
+
+- **Inner layer**: motivations to succeed on the game's terms. **Outer layer**: the motivations that brought you to play (aesthetics, fun, fitness). The inner layer is *justified* by the outer, but "we hide our larger reasons from ourselves for a time."
+- The layering is not merely **chronological** (full agency, then game agency, then full agency again). The outer layer runs "in the background," which is how cancellation is possible.
+- **Phenomenal duality**: mid-game you can step back and see how beautiful the game is. When losing the most interesting game of your life, "the temporary practical agency should be miserable, but the enduring agency... should be in raptures."
+- **When submersion fails or holds.** Enduring ends may "ring so loudly" (starvation, fear for your life) that submersion becomes impossible, though mountaineering builds extremes into the game itself. Submersion can also be a refuge. A friend going through a terrible divorce found relief only in an absorbing board game, and progressive activists waiting for the Clinton–Trump results got through the night by playing *Dixit*.
+- **This is layered agency, not changed agency**: "the temporary agency is still under the justificational thumb of the overall agency."
+
+## Love is the opposite case
+
+Stocker charged modern ethical theories with "schizophrenia." An egoist who loves for the pleasures of love must hide their motive from themselves and keep a "mental alarm clock" to check how it is going. Striving players *are* Stockerian schizophrenics. Their alarm clock is the moment of asking, "Wait. Are we really having any fun here?" For love and life projects Stocker is right, because love "requires a direct and nonfungible commitment to its object." Striving play wants any goal at all "as long as it sustains worthwhile activity." So "game playing is the opposite of love." The striving player should be locally committed and "globally noncommittal" toward game goals ("Don't play games with my heart"). To love noncommittally makes "a terrible lover," but in games the real problem is *too much* commitment. Games give us reason to value "a certain fickleness and disloyalty toward a special class of ends."
+
+This also corrects theories of agency. For Millgram, our ends change slowly and involuntarily, with boredom and interest guiding the transformation of the enduring self. In games we transform "just for the sake of alleviating boredom and having interesting experiences": "what is strictly instrumental for Millgram becomes the whole point in striving play." "We play around with a toy version of our self." This fluidity is nimbler, because temporary ends are adopted at will, but it stays embedded in stable final ends, such as an abiding interest in striving experiences. Millgram's **unity constraint** says all of an agent's ends should be live whenever they are relevant. Striving play shows "desirable disunity." The unity we really want is "complex, many-layered, and distributed over time," guided in the long run by the same enduring values.
+
+## Maieutic ends and normative attachment
+
+Schmidtz's **maieutic end** is "an end achieved through a process of coming to have other ends." The word comes from midwifery. Kate, wanting a life goal, settles on being a doctor, and helping people becomes a free-standing final end. Someone who wants to fall in love acquires the beloved's well-being as a final end. If you loved Jessie only as a means to loving *somebody*, you should switch to someone healthier the moment Jessie got cancer, "but, once again, this isn't love."
+
+- **Normatively attached**: A is acquired for B, and A's significance depends on B. If money fails to bring peace of mind, drop the interest in money.
+- **Normatively detached**: A is acquired for B, but then "floats normatively free." Kate's life goal works this way.
+
+Striving play produces *attached* ends that wear "the momentary appearance of detachment." We evaluate games by the outer purpose between games ("It was more grueling than fun") and during them ("Want to just call it and play something else?"). We adjust: a trail runner changes mileage goals mid-run to find the right meditative state, and players add house rules. Kate's case is "motivational self-transformation." Striving play is "temporary self-manipulation." Don't read choosing tonight's game as a miniature of choosing a life project.
+
+## The clarity of practicality
+
+Ordinary reasoning is "all things considered," "an unholy mess." Games narrow the considerations to something manageable: "Paintings are made for the human eye, and games are made to fit human practical abilities." Game goals are "thin and precise," and the assumptions of classical economics are false in life but "precisely right in most games." Sicart objects that scoring morality (the Light/Dark meter in *Knights of the Old Republic*) promotes a banality of value. Extended to all scoring, Nguyen's answer is: "But that is precisely the point of games! ... In a game, for once in my life, I know exactly what it is that I'm supposed to be doing." Clear goals also make functional beauty legible: "Teleologically hazy objects and actions are reconstituted within the context of the game as teleologically obvious," and "It is much easier to point out a perfectly elegant chess move than a perfectly elegant political solution." Unlifelike simplicity is a value in other arts too (Bach's *Art of the Fugue*, Rothko). The danger lies in "exporting unrealistic expectations of clarity out of the game, and not from the experience of value clarity in the game itself."
+
+## The paradox of failure
+
+Juul's **paradox of failure**: we avoid failure in life, yet games add failures to it, and unlike painful art, in games we ourselves fail. Juul resolves it with **plausible deniability**. We treat success as meaningful and *deflate* failure as "just a game," pivoting between the two.
+
+Nguyen accepts that this fits some players, like the blustery Los Angeles streetball player who boasted when winning and laughed off losses as "just a game, man." It fails as a general account. It cannot explain playing without hope of winning, and it imputes self-delusion to every player. His Go mentor Joe fought tooth and nail but was equally pleased to win or lose if the game was interesting. When a student's dumb mistake handed Joe a win, he would sigh at the lost possibility of a lovely game and reset the board to the moment before the mistake, "because, you know, it was just starting to get interesting."
+
+Layering gives the better solution. The temporary agency cares and feels the pain, but "that temporary agency is not me." Its failures do not reflect on the full agent, and its successes do not either. For the aesthetic striving player, "winning doesn't matter if the experience was dull."

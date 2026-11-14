@@ -1,0 +1,71 @@
+# Gamification, value capture and the remedy of striving
+
+This file holds the book's account of the dangers of games and game-like systems, and of how aesthetic striving play protects against them. Use it to diagnose metrics, scores, rankings, leaderboards, badges or self-tracking that reshape what people care about, to separate value capture from nearby problems, or to explain what games can do about it.
+
+## Where the danger lies
+
+Games, and game-like systems that goad game-like shifts in agency, can do so "sometimes without our awareness or consent." **Gamification** is the introduction of game-like elements into practical life.
+- **Intentional gamification**: FitBit rewards for exercise.
+- **Accidental gamification**: academic metrics (citation rates, impact factors) arising from bureaucratic needs. "Metrics, after all, look a lot like points."
+
+The risks attach to all clear-goal games (Chess, Bridge, *Imperial*, *Civilization 2*, soccer), not just violent video games: "I am more worried about games breeding Wall Street profiteers than I am about their breeding serial killers." These are empirical hypotheses that need empirical work.
+
+Games are half fictional and half real (Juul). The shooting is fictional, and awareness of fiction blocks violent after-effects (Young). But the outwitting and the being better are real, and the danger comes from this nonfictional content. It comes in two forms.
+
+**1. Total instrumentalization**: the "all-consumingly instrumental mode of practical reasoning," which instrumentalizes every resource and competitor. It is permissible in games because opponents' ends are disposable and consented to, and the design converts attacks into delightful struggle. Outside games, treating others as mere instruments is "morally terrible," because life is not engineered to convert antagonism. The mature player adopts the attitude temporarily and sets it aside, while letting it linger is a "moral catastrophe." The **good sport** plays hard to win but doesn't care outside the game whether they won, and celebrates an interesting loss. The instrumental attitude is "sneakier" than fictional violence because the rules don't specify it explicitly. It is only implied by the goals, so it is harder to notice and set aside. (It is not egoism: a crusader for justice or the rainforest can treat people as mere means.)
+
+**2. The fantasy of value clarity.** Game values are clearer and easier to apply and evaluate, and that expectation gets exported. But "in much of life, the right values to have may not be the clearest values." This is the subtlest danger, since "many players may not realize they are indulging in a fantasy at all."
+
+## Value clarity: three features
+
+**Value clarity** is the applicability and commensurability of game goals plus the rankability of achievements. Use the three features to test any system:
+
+1. **Applicability**: whether the value has been achieved is obvious. Happiness and wisdom are not like this. Would a vacation or a promotion make you happier? Would pop quizzes make students wiser? Games give points or binary victory. Checkmate is logically determinable, and the scope is circumscribed.
+2. **Commensurability**: everything sits on a common scale. Life lacks one: does Rawls's *Political Liberalism* equal 25.7 oranges? How do you weigh a child's zoo trip against research against a protest against the detention of immigrants? Games have a single goal or an explicit exchange rate. Eurogames offer "multiple paths to victory," as when Knizia's *Taj Mahal* commensurates sets of goods, palace chains and bonus tiles through victory points, or a farming game sets sheep at 4, cows at 5 and wheat at 10.
+3. **Rankability**: achievements can be ordered. Life lacks this too: is a small, rigorous philosophy paper better than a grand, slapdash one? *Scoreless Super Mario Brothers* would still be a game but would be hard to rank. Actual scoring enables high-score lists and talk of the "greatest player of all time." Most players accept a "built-in, off-the-rack value system."
+
+Value clarity is not necessary for games. **Subtle value games** lack it: a naked-in-the-woods survival game judged on gourmet meals, elegant shelter and fashionable clothes; skateboarding, judged informally on style and difficulty; improv comedy. Formalization pushes toward clear goals, as with Olympic figure-skating judges and professional skateboarding's drift toward jump height and number of spins. Most games have value clarity because it relieves evaluative complexity, makes functional beauty crisper, and helps communicate agencies.
+
+**The danger**: being drawn to social milieus, institutions and value systems that present values as artificially clear, and adjusting your goals to resemble game play. McGonigal neglects "the degree to which gamification changes the nature of the target. Gamification can amplify our motivation to act, but in order to do so, it needs to alter the goal." Intentional gamification includes FitBit and Strava leaderboards and Lyft and Uber badges. At Disney, laundry staff saw scoreboards with names in green ("meeting"), yellow ("slipping") or red ("failing"). Productivity soared, injuries rose, workers skipped bathroom breaks and resented being motivated, and they called it "the electronic whip." Gabrielle treats such systems as malicious control mechanisms. More broadly, simple values take over motivation without intentional design: we gamify ourselves by accident, as with Nguyen's own scored to-do list.
+
+## Value capture
+
+**Value capture** occurs when:
+1. our values are, at first, rich and subtle;
+2. we encounter simplified (often quantified) versions of those values;
+3. those simplified versions take the place of our richer values in our reasoning and motivation;
+4. our lives get worse.
+
+Examples: with a FitBit, health becomes step counts. In academia, the love of wisdom becomes high-status journals and impact factors. On Twitter, communication becomes likes and retweets, which leads to tweeting moral outrage.
+
+**Distinguish it from its neighbors:**
+- **Perverse incentives**: a teacher's salary bonus tied to a standardized writing test is a malformed lever on a preexisting value, and the value itself doesn't change. In value capture, the simplified value "*takes over* as the primary guide in my practical reasoning," and the values are transformed "by the seductive clarity of simplified values."
+- **Gaming the system**: raising retention rates by refusing high-risk students, or taking easy courses to protect a GPA, intentionally exploits the gap between measure and value. Value capture *internalizes* the imperfect measure.
+- **Goodhart's Law** ("When a measure becomes a target, it ceases to be a good measure") concerns gaming the system and errant incentives. Value capture is more insidious, because the oversimplifications are internalized.
+
+**Where the simplified values come from.** Oppression and control are the clearest harm (Gabrielle; William Davies on positive psychology's quantified happiness feedback serving capitalist interests). Institutions need quantified measures. Porter: "quantification trades informational richness for usability." Measures strip context and aggregate (a GPA vs. a qualitative essay), appear more objective than they are, and let administrators disclaim decisions. Merry defines an **indicator** as "a simple and quantitative representation of a complex state of affairs," one that hides the negotiation behind it. Examples are the *US News and World Report* rankings, the *Trafficking in Persons Report* and the UN Human Development Index (2018: Norway 0.953, Hong Kong 0.933, US 0.924, Niger last at 0.354). Administrators come to chase the *US News* ranking, students their GPA, politicians UN indices. No malice is needed. Measures are useful, portable simplifications, and capture happens when we lose touch with the richness they abbreviate. Institutional values come **off the rack**, not tailored. Millgram holds that we should adjust values by attending to how life goes, but off-the-rack values resist tailoring. Publicity adds to their pull, since success measured in income or Twitter followers is comprehensible to others as a common currency.
+
+**Why it is bad on any theory of value.**
+- *Objective theories* (Hurka's Aristotelian list: rationality, autonomy, physical capacities): value capture is "a form of belief in bad faith," changing values for "pleasure, ease, and aesthetic satisfaction." The striving attitude instrumentalizes ends for aesthetic and hedonic reasons, which is fine for disposable ends. "Life is not a game."
+- *Desire theories*: the cases resemble taking income as the measure of desire satisfaction, or GDP.
+- *Autonomous-values views*: changing your values for coherence or toward an ideal self is autonomous, and self-gamification is pitched as a fix for weakness of will. *Duolingo* is a good case, because language learning is "a relatively clear goal... translated into a set of game-like goals with little loss of content." Self-gamifying a subtler value can still cost autonomy, through two mechanisms:
+  - **Heuristic drift.** We need **heuristic principles of action**, simple, usable expressions of a value, chosen for *accuracy and usability*. The ideal heuristic is the "usable representation of the value that, when followed in the long term, would lead to the greatest fulfillment of that value," such as 30 minutes of exercise before breakfast, which you step back from and tweak. Value clarity "provides an undermining pressure on the ways in which I form, evaluate, and adjust my heuristics." In a FitBit step competition with friends, running, yoga and weight training (which the device doesn't count) lose out. The numbers are "slightly too sticky a proxy" and come to "loom motivationally larger... than they ought to." It is not value capture to gamify on purpose for twin values (health plus the joys of striving, as in marathons and climbing) in the intended proportion. Capture is when game-like pleasures "insinuate themselves" and pull heuristic formation off course without your intending it.
+  - **Seduction of the will**, a cousin of weakness of will. Heuristic formation is a technique of willpower, and in heuristic drift "my values don't change. Rather, the way I represent my values to myself, in some daily and usable form, is captured." Efforts of self-control get diverted to the game-like target.
+- **Coarse-grained values.** Following Moran, our attitudes come partly from **self-interpretation**: pride is a phenomenal base plus deciding that pride is appropriate. Following Scheffler, valuing is affect plus deciding it is right to value. The seductions of value clarity reduce our "ready vocabulary of value." When subtler value concepts drop out of our self-descriptive inventory, we actually lose those attitudes, and our values become *coarse-grained*. This happens even when self-gamification is autonomously chosen, and an impoverished variety of valuing attitudes is itself a loss of autonomy.
+
+Value capture exists independently of games. Clarity in a game is "therapeutic, satisfying, useful, and even beautiful," and the problem is exporting the need for it. Games heighten the danger only when we mismanage the transition.
+
+## The remedy: the value of striving
+
+Game play itself offers relief. Its striving structure invites reflection ("Was chasing that goal worth it? Was it beautiful, fun, or worthwhile?"). The aesthetic attitude is open-ended and subtle, the opposite of the narrowed state, so aesthetic striving play alternates between two opposed mental states. The goal is well-managed fluidity: to "deploy temporary agencies and agential modes without losing ourselves to them." Narrowed states leak, through habituation and through professional roles, so we need the capacity "to deploy them under our control, and to extract ourselves from them."
+
+- **Achievement play gives no protection** and may encourage the creep: "the more winning, the better. Success in a game's narrowed terms is success, period."
+- **Striving play evaluates the interest in winning in terms unrelated to winning**: "Is this a good goal to have? Is pursuing this goal a good form of life for me to inhabit?" It "puts motivational distance between winning and value," a "right-angle turn in motivation." "The value of striving play turns a corner."
+- **Striving alone is not enough.** Running a marathon for its ranking nested inside a purpose of lowering your BMI puts clarity at both levels.
+- **Aesthetic evaluation resists simplification.** Sibley: aesthetic judgments are nonmechanical, with no necessary or sufficient nonaesthetic conditions for a graceful line. Mothersill: there are no principles of taste. Isenberg: "There is not in all the world's criticisms a single purely descriptive statement concerning which one is prepared to say beforehand, 'If it is true, I shall like that work so much the better.'" Aesthetic evaluations "lack value clarity," so aesthetic striving play lets us "pivot, and reflect on our experience of acting under clear values from the standpoint of subtler ones."
+
+**Managing narrowness** takes a pair of opposed capacities:
+1. to submerge in narrowed modes, which any striving play trains;
+2. to step back and reflect from a wider perspective, which aesthetic striving play trains and which protects against stickiness.
+
+A yoga teacher puts it this way: "Freedom comes from a balance of flexibility and control." Sticky agential modes also arise in professional roles and institutions, "pleasurably sticky," so we need a "reflexive habit of distancing." The hope is that practice in a protected context gets you "used to wearing your submersion a little lightly," so that facing money, grades, Twitter likes or research impact factors, you have "habits of lightness and control." Aesthetic striving play lets us "dip into agential modes, but not be caught by them"; "to dip in and out, to narrow and to widen, to clarify and then to complicate." Games are "a danger and an opportunity," and play's lightness is "learning to wear our agency lightly." "The value of games is to be found in the flowering possibilities of the art of agency."

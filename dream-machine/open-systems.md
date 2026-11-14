@@ -1,0 +1,86 @@
+# Open systems: networks, platforms, protocols and standards
+
+The book's case for openness, built up from Corbató's time-sharing system CTSS through the Arpanet and TCP/IP to the NSFnet, and tested against the market (DEC, the Altair, CP/M, Unix, the Xerox Star). Also included: the methods used to get independent, individualistic groups to agree on shared conventions.
+
+## The open system pattern
+
+**CTSS** is the template. It was open so that it "allowed everyone to make the system be *their thing,* rather than what somebody imposed on them."
+- **Core and periphery.** An inner core of lower-level functions, kept simple and comprehensible: Corbató asked of each part "how we would explain this to a newcomer ... without having to read a manual". Around it, an outer periphery of commands written by users. Popular user tools moved into a public library, then into the system. Soon more than half the commands were user-written, giving a "self-guided system" that adapted to needs its founders never envisioned.
+- **The rule.** Like free speech, free markets and the free exchange of science, "a core set of rules that everyone must accept to make the interchange possible at all. But beyond that, creativity reigns."
+- **The sociology flips.** Batch programmers never documented anything. On the open system "people began to document their programs and to think of them as being usable by others. They started to build on each other's work."
+
+**Fano's three lessons** of the information utility. Expect each of them in any shared platform:
+1. "What begins as a convenience quickly becomes a necessity." Users structure their lives around it and grow proprietary about it.
+2. "In an information utility, the power flows both ways." Users create resources, and "the system became the repository of the knowledge of the community."
+3. "Openness requires trust." Users must believe the system will be up, a glitch will not destroy their work, and their files are safe.
+
+**Utility or heterarchy.** Mike Dertouzos's objection to the information utility: "Information isn't natural gas. It doesn't come from one place, or a few places. It comes from all over." Networks moved the field from "a centralized-brain metaphor to a system without centralized control". Ask whether the user's platform is designed as one source serving many, or as many sources serving each other.
+
+**Openness needs privacy.** Corbató called systems without passwords "clubhouse" systems: "works fine as long as everyone is friendly. It breaks apart when you begin to get differences." People need a zone of privacy, since "most individuals are shy about exposing their work prematurely". Fano put it bluntly: "How would you like someone to write a paper before you, using your material?" The 1968 design rule puts generally useful data in public files, and gives each user "complete control over his personal files." Users "define and distribute the 'keys'": exclude everyone, or allow reading but not modifying, or allow executing but not reading, and so on. Group and organizational files sit within the overall information base. The book's verdict is that the technology "would have to reinforce such unfashionable values as courtesy, trust, and responsibility—not undermine them." Reliability belongs to the same trust; see "When this goes wrong" in building-systems.md.
+
+## Designing the network
+
+The Arpanet's founding decisions, each a reusable principle:
+- **Full-time access.** Leased lines that never hang up, because dial-up delays of seconds felt "like geologic ages."
+- **Packets.** Messages are broken into packets with error-checking codes, and packets are resent when noise corrupts them.
+- **Distributed control.** Store-and-forward routing shared among the nodes, rather than a "Grand Central Computer" that is a single point of failure. The result is "a network that operated collectively, with little or no central control."
+- **Machines as equals.** Wes Clark supported the network only if the machines functioned "as equals ... Give all those machines some autonomy!"
+- **Make the network self-contained.** Clark saw that running packets through the host computers was like routing the interstate through every town's main street. So "define the network to be something self-contained": small, separate routing computers (the IMPs), with the sponsor responsible for the network and each site responsible only for linking its host to the router.
+- **Let the network do as little as possible.** The IMP delivered packets, and everything else was the host's job, like a wall socket. That left "a total vacuum on the protocols", which the users filled.
+- **Message processors bring uniformity.** "The message processors, being all alike, introduce an element of uniformity into an otherwise grossly nonuniform situation," which gives compatibility across "diverse and poorly compatible computers."
+- **Two reasons that reinforce each other.** Steve Lukasik's two reasons for building the network: it was good for the researchers, and survivable for defense. "The best way to develop the network for the Defense Department was to develop it for the IPTO guys ... You don't really test a network until you have real users ... They will do all the screwball things real users do. And they have a lot of motivation to solve all the problems". He called it "a very interesting bootstrap management scheme."
+- **Leverage plus a carrot.** Nobody wanted the network at first. The big sites feared losing cycles, the small ones feared second-class status, and everyone saw a distraction. Larry Roberts withheld new computers until existing ones were hooked in and fully used. But he "didn't dare come across like a dictator": "We invited them to work on both sides of the problem." By the end the argument was "not about *whether* ... but about *how*."
+
+## Protocols and their governance
+
+- **Protocols are levels of convention.** "Bits alone weren't communication, any more than the letters of the alphabet alone were communication." A network needs vocabulary, grammar and rules of discourse, "level after level of convention and protocol."
+- **Requests for Comments.** Steve Crocker worded the first notes humbly, as "unofficial ... just to stimulate conversation ... anybody is able to write down anything ... they have no status". The **RFC** form drew people in rather than ordering them.
+- **The users were the grown-ups.** The graduate students waited for experts "from 'the East'" to hand down protocols. None came, and "Crocker and his contemporaries *were* the grown-ups."
+- **The Network Working Group.** Alex McKenzie explained the policy: "We don't want to put all our eggs in one basket, with one contractor ... Everybody has to be involved because there are good ideas everywhere, and because ARPA wants people to feel like they have a stake in the outcome." Membership was open: "if you wanted to be a member ... you were." Consensus came "by technological necessity": "a protocol had to be universal to be a protocol at all. They had to agree, or the bits wouldn't flow." Crocker: "There weren't armed camps." This is the model the IETF inherited.
+- **The fly-off.** The Arpanet was connected but a network in name only, "like picking up the phone and calling France ... if you don't speak French". The fix was to put everyone in one place, have each log into every other site, and work until it worked. A blackboard held a matrix of participants by participants, and each box was crossed out as a pair interoperated.
+- **Consensus seminars.** The TCP design meetings were "as much about consensus building as technology". Cerf: "every time we brought in a new player, we had to go through the argument again". It was slow but effective, because everybody had input. Proof came from three independent implementations that interoperated. Bob Metcalfe went off to implement his own protocol (PUP) rather than wait for the committee, which left Xerox cut off from the Internet's genesis.
+
+## Open architecture: a network of networks
+
+Bob Kahn's internetworking problem was how to join packet radio, satellite and the Arpanet. Patching each new network into one code base meant bottleneck and bloat, a "Rube Goldberg mess."
+- **Disintegrate.** "Total integration of the networks was bad management and bad engineering. Instead ... *dis*integrate the networks": each network keeps its own machines, software and protocols, with a **gateway** between them.
+- **Admit the costs.** The design was "less efficient ... more fragile ... more complex, more expensive—everything." The gain was that each network "could be built, controlled, and operated by a separate entity". Each need only meet the interface standards and know nothing of the others' internals. The result: "Instead of a *closed* system ... an *open* system, a network of networks that could, in principle, accommodate anyone."
+- **The architecture of openness** is the same principle at every level: the Arpanet host interface, the CTSS and Unix architecture, and Kay's objects with a standard interface outside and their own thing inside. Like a market or a democracy, it is "open to anyone willing to deal in the common currency and/or speak the common language, as defined by the interface standard", and it grows explosively with minimal central authority.
+- **Cerf's envelope.** "What if each postcard could be mailed inside an envelope addressed in the local language, and then moved into a *new* envelope ... when it crossed the border?" A universal protocol rides inside local wrapping, and the gateway strips, reads and rewraps. It is "the simplest possible mechanism for making the system work", and infinitely extensible. TCP's further job was to cope with real-world chaos by trying, and replacing lost packets automatically.
+- **Ethernet: control without control.** Each sender backs off for a random interval and retries, so the network operates "without any central control at all." Metcalfe's fix to the Aloha analysis replaced an assumption of infinite users who keep typing with realistic users. Check a design's assumptions against how real users behave.
+
+## Coordinating independent groups (the Intergalactic memo method)
+
+Lick's 1963 memo to the "Members and Affiliates of the Intergalactic Computer Network" is a procedure for getting individualistic centers onto shared conventions without a rule book:
+1. **Name the common thread and the interdependence.** "To make progress, each of the active research needs a software base and a hardware facility more complex and more extensive than he, himself, can create in reasonable time."
+2. **Map mutual advantage.** The main purpose is "to determine who is dependent upon whom for what and who may achieve a bonus benefit from which activities of what other members of the group", weighing costs as well as values.
+3. **Share tentative plans early.** "It is much more likely to be advantageous than disadvantageous for each to see the others' tentative plans before the plans are entirely crystalized". The aim is not "some rigid system of rules and constraints that might maximize, for example, program interchangeability."
+4. **Put everything on one blackboard.** "See the main parts of the several projected efforts, all on one blackboard, so that it will be more evident ... where network-wide conventions would be helpful and where individual concessions to group advantage would be most important."
+5. **Agree on the arbitrary decisions.** Diversity may proliferate, but foster **transfer of training**: "follow group consensus in the making of the arbitrary and nearly-arbitrary decisions." There is no point in a different symbol at each center for "contents of".
+6. **Settle how to ask "What language do you speak?"** Wholly uncorrelated parties cannot start talking, so agree at least "upon some conventions for asking such questions". Lick: "I should not like to make an extreme assumption about the uncorrelatedness. (I am willing to make an extreme assumption about the sapience.)" Decide where translation happens: at the receiving end, at the sending end, or through a common language.
+7. **Admit your stake.** Lick flagged the risk "of confusing my own individual objectives (or ARPA's) with those of the 'group.'"
+
+The danger this method guards against is a high-tech **Tower of Babel**. The goal is to make building on one another's work second nature, by making it trivially easy to exchange programs and data.
+
+## What the market showed
+
+- **DEC.** The PDP-1 published "all the details of the core architecture" so users could add to it. With the PDP-8, the OEMs (original equipment manufacturers) bought raw machines and sold complete systems. "By giving up absolute control ... by letting users take charge of their own machines, DEC could benefit from the creativity and entrepreneurial energy of a far larger community than it ever could have mustered in-house." Later, opening Ethernet: "customers would balk if DEC tried to lock them into using its machines exclusively. In the long run, the company would do much better if it allowed everyone to play."
+- **The Altair** published its bus specification, and hundreds of startups built cards for it. Its maker learned that openness gives the community "a direct personal stake in the Altair architecture" but not "in the Altair itself": clones followed, as they later did with the IBM PC.
+- **CP/M** collected the machine-specific code into a small BIOS, and made getting it right the licensee's job. That established "a clean separation between a microcomputer's hardware and software", which amounted to "a new open-interface standard that would allow hardware and software to evolve independently."
+- **Unix** spread because it was free and came with source code ("You could hack it"). It was lean, it gave each tool one job connected by pipes, and its users passed around drivers, tools and patches. The result was "the People's Operating System."
+- **TCP/IP beat OSI**, the paper standard with official blessing. "We could demonstrate that our specification was open, that it had been implemented by any number of manufacturers, and that it was compatible with the most popular operating system of the time, Unix." A working, implemented, open standard defeats an official one that exists only on paper.
+- **The Xerox Star** was closed: all hardware and software from Xerox. It had to guess what customers wanted, and guessed wrong; see lab-to-market.md.
+
+## Open infrastructure needs leadership
+
+Lick's 1979 "Multinet" scenarios frame the stakes. The open **electronic commons** would be "the main and essential medium of informational interaction for governments, institutions, corporations, and individuals", and no central authority could keep up with it. The alternative is "the year 2000 is new sheet metal on a souped-up 1970s chassis": fragmented networks, monopolies protecting old lines, secrecy, and a system "characterized by supervision, regulation, constraint, and control."
+- The open path needs "a long, hard process of deliberate study, experiment, analysis, and development" sustained by a collective vision, and that requires leadership. The closed path "can merely evolve under the pressure of economic competition and the criterion of local gain."
+- Lick did not doubt the private sector's ability to innovate. He questioned its ability to *cooperate*. Vendors sold isolation as a feature, and "it's hard to miss something you've never experienced."
+- Kahn's analogy: communities grow around infrastructure the way malls spring up along a new highway, or industry settles where power is cheap.
+
+**How the NSF handed the Internet to the market** (Steve Wolff):
+- **Act past the mandate when nobody objects.** The supercomputer network's purpose as a mere link to the centers "lasted about fifteen microseconds", and it was opened to all scholars. "Since nobody actually said no—well, they just did it." Capacity upgrades were made the same way.
+- **A network is a continuing expense.** "A network isn't something you can just *buy;* it's a long-term, continuing expense. And government doesn't do that well. Government runs by fad and fashion." Plan the exit from subsidy from the start.
+- **Decentralize management in tiers.** Campus networks feed regional networks, which feed a national backbone. Seed the regionals, then tell them "You guys will eventually have to go out and find other customers." They became the Internet Service Providers. Cerf: "the requirement that they become self-funding was the key to the evolution of the current Internet."
+- **Coordinate as a shadow organization.** The agencies' networking chiefs formed the Federal Research Internet Coordinating Committee (FRICC): "We just found it more useful to cooperate than to fight." It "was like a virtual agency: they didn't agree on everything, but if they came up with a good idea, they would go out and find the money in somebody's budget to do it."
+- **Give users something to see.** Berners-Lee's hypertext browsing turned the network from an abstract channel into "a *place*", and then users "would finally begin to *get* it." Marc Andreessen's browser won because he "listened to the users."
