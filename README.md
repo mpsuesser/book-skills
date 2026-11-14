@@ -7,7 +7,7 @@ Agent skills, one per book. Each skill is a compact distillation of a single boo
 With the [skills CLI](https://skills.sh):
 
 ```sh
-npx skills add mpsuesser/book-skills                 # pick from all 17
+npx skills add mpsuesser/book-skills                 # pick from all 20
 npx skills add mpsuesser/book-skills --skill tempo   # install one
 npx skills add mpsuesser/book-skills --list          # list without installing
 ```
@@ -76,6 +76,17 @@ Writes and repairs comedy with Vorhaus's tools: comedy as truth and pain, the co
 
 **[`point-and-line-to-plane`](point-and-line-to-plane/)** · *Point and Line to Plane* by Wassily Kandinsky<br>
 Analyzes or builds a composition from Kandinsky's basic elements (point, line, basic plane), their tensions and their inner sound. Covers placement on the picture plane, the character of lines and angles, their relation to colour, and translating music, dance and natural forms into point and line.
+
+### Prose and copy
+
+**[`economical-writing`](economical-writing/)** · *Economical Writing* by Deirdre Nansen McCloskey, with an appendix by Stephen T. Ziliak<br>
+Drafts and revises expository prose by McCloskey's thirty-five numbered rules, from the whole piece down to the paragraph, the sentence and the word. Includes her list of Bad Words and Ziliak's McZ# method, which marks each fault in a draft with the number of the rule it breaks.
+
+**[`make-your-writing-flow`](make-your-writing-flow/)** · *Make Your Writing Flow* by Ryan Deane<br>
+Connects sentences and paragraphs with the transition that signals the relation the writer means, chosen from the book's 34 categories of transitional words and phrases. Holds every transition by category with notes on how each is used, and a pass for revising a draft join by join.
+
+**[`very-good-copy`](very-good-copy/)** · *Very Good Copy* by Eddie Shleyner<br>
+Writes, edits and judges persuasive copy the way Shleyner's 207 micro-lessons teach it: diagnose with the 40/40/20 rule and the levels of awareness, then research, find the angle, structure, draft, edit and test. Reference files go deeper on headlines, storytelling, persuasion, editing, campaigns and positioning, the creative process, and a copywriter's practice and career.
 
 ## How each skill is built
 
